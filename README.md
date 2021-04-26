@@ -28,3 +28,5 @@ Ar Tag Track library can:
   In order to pass the coordinate parameters on matlab, a ROS subscriber will be utilised to extract the tag data from the publisher (in this case ROS terminal)
   
   Future Task: Implement AR Tag tracking methodology in gazebo.
+
+  The DoBot Magician MATLAB class has also been created and can be viewed above.
